@@ -6,5 +6,5 @@ BITAmin coding study 공부자료
 
 ### 학습방법
 
-https://www.acmicpc.net/
-백준 사이트 코딩 문제 풀이 후 정리 및 복습
+- 백준 사이트 코딩 문제 풀이 후 정리 및 복습
+- https://www.acmicpc.net/
